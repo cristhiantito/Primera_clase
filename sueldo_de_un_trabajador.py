@@ -1,0 +1,6 @@
+print ("Ingrese las horas trabajadas:")
+horas_trabajadas = input()
+print ('Ingrese el costo por horas:')
+costo_por_horas = input()
+total = float(horas_trabajadas) * float(costo_por_horas)
+print (f'Su sueldo es:  s./{total} tenga buen dia')
