@@ -1,5 +1,0 @@
-print('ingrese una palabra')
-palabra = input()
-leer_caracteres = len(palabra)
-print('-----------')
-print(leer_caracteres)
