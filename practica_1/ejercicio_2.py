@@ -1,0 +1,6 @@
+a = int(input('Ingresa el lado del  poligo:'))
+b = int(input('Igresa la base del poligono: '))
+area_rectangulo = round (b * a,2)
+area_cuadrado  = round( a**2,2)
+print(f'El area del rectangulo es: {area_rectangulo}')
+print(f'El area del cuadrado es: {area_cuadrado}')
